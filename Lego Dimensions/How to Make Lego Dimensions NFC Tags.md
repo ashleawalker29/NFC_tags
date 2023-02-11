@@ -25,12 +25,20 @@
 ## Example Calculation
 
 Step 2) 04978F
+
 Step 3) 22287380
+
 Step 4) 04978F22287380
+
 Step 7) ID 4
+
 Step 8)
     35 (0x23) 00000000
+
     36 (0x24) 73492BB8
+
     37 (0x25) F35F482C
+
     38 (0x26) 00000000 (Token Type)
+
     43 (0x2B) 9B2571FE
