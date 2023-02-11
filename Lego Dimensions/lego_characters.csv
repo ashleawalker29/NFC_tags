@@ -1,0 +1,76 @@
+ID, Character,Media,Level Pack?
+1, Batman, DC Comics,FALSE
+2, Gandalf, Lord of the Rings,FALSE
+3, Wyldstyle, The LEGO Movie,FALSE
+4, Aquaman, DC Comics,FALSE
+5, Bad Cop, The LEGO Movie,FALSE
+6, Bane, DC Comics,FALSE
+7, Bart Simpson, The Simpsons,FALSE
+8, Benny, The LEGO Movie,FALSE
+9, Chell, Portal 2,TRUE
+10, Cole, Ninjago,FALSE
+11, Cragger, Legends of Chima,FALSE
+12, Cyborg              ,Teen Titans Go!                     ,FALSE
+13, Cyberman            , Doctor Who                                ,FALSE
+14, Doc Brown           , Back to the Future                        ,FALSE
+15, The Doctor          , Doctor Who,FALSE
+16, Emmet               , The LEGO Movie                            ,TRUE
+17, Eris                , Legends of Chima                          ,FALSE
+18, Gimli               , Lord of the Rings                         ,FALSE
+19, Gollum              , Lord of the Rings                         ,FALSE
+20, Harley Quinn        , DC Comics                                 ,FALSE
+21, Homer Simpson       , The Simpsons,TRUE
+22, Jay                 , Ninjago                                   ,FALSE
+23, Joker               , DC Comics                                 ,FALSE
+24, Kai                 , Ninjago                                   ,FALSE
+25, ACU                 , Jurassic Park                             ,FALSE
+26, Gamer Kid           , Midway Arcade,TRUE
+27, Krusty the Clown    , The Simpsons                              ,FALSE
+28, Laval               , Legends of Chima                          ,FALSE
+29, Legolas             , Lord of the Rings                         ,FALSE
+30, Lloyd               , Ninjago                                   ,FALSE
+31, Marty McFly         , Back to the Future,TRUE
+32, Nya                 , Ninjago                                   ,FALSE
+33, Owen Grady          , Jurassic Park                             ,FALSE
+34, Peter Venkman       , Ghostbusters,TRUE
+35, Slimer              , Ghostbusters                              ,FALSE
+36, Scooby Doo          , Scooby-Doo,FALSE
+37, Sensei Wu           , Ninjago                                   ,FALSE
+38, Shaggy              , Scooby-Doo                                ,FALSE
+39, Stay Puft           , Ghostbusters                              ,FALSE
+40, Superman            , DC Comics                                 ,FALSE
+41, Unikitty            , The LEGO Movie                            ,FALSE
+42, Wicked Witch        , The Wizard of Oz                          ,FALSE
+43, Wonder Woman        , DC Comics                                 ,FALSE
+44, Zane                , Ninjago                                   ,FALSE
+45, Green Arrow         , DC Comics                                 ,FALSE
+46, Supergirl           , DC Comics                                 ,FALSE
+47, Abby Yates          , Ghostbusters,TRUE
+48, Finn                , Adventure Time,TRUE
+49, Ethan Hunt          , Mission Impossible,TRUE
+50, Lumpy Space Princess, Adventure Time                            ,FALSE
+51, Jake                , Adventure Time                            ,FALSE
+52, Harry Potter        , Harry Potter                              ,FALSE
+53, Voldemort           , Harry Potter                              ,FALSE
+54, Michael Knight      , Knight Rider                              ,FALSE
+55, B.A. Baracus        , The A-Team                                ,FALSE
+56, Newt Scamander      , Fantastic Beasts,TRUE
+57, Sonic the Hedgehog  , Sonic the Hedgehog                        ,FALSE
+59, Gizmo               , Gremlins                                  ,FALSE
+60, Stripe              , Gremlins                                  ,FALSE
+61, E.T.                , E.T.                                      ,FALSE
+62, Tina Goldstein      , Fantastic Beasts                          ,FALSE
+63, Marceline           , Adventure Time                            ,FALSE
+64, Batgirl             , LEGO Batman Movie,TRUE
+65, Robin               , LEGO Batman Movie,TRUE
+66, Sloth               , The Goonies,TRUE
+67, Hermione Granger    , Harry Potter                              ,FALSE
+68, Chase McCain        , LEGO City                                 ,FALSE
+69, Excalibur Batman    , LEGO Batman Movie                         ,FALSE
+70, Raven               , Teen Titans Go!                           ,FALSE
+71, Beast Boy           , Teen Titans Go!                           ,FALSE
+72, Betelgeuse          , Beetlejuice                               ,FALSE
+74, Blossom             , The Powerpuff Girls                       ,FALSE
+75, Bubbles             , The Powerpuff Girls                       ,FALSE
+76, Buttercup           , The Powerpuff Girls                       ,FALSE
+77, Starfire            , Teen Titans Go!                           ,FALSE
